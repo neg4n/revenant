@@ -1,6 +1,7 @@
 {
     "name": "revenant",
     "publisher": "zxv77",
+    "icon": "./resources/logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/zxv77/revenant.git"
