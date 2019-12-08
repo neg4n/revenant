@@ -1,0 +1,22 @@
+{
+    "name": "revenant",
+    "publisher": "zxv77",
+    "displayName": "revenant",
+    "description": "spooky",
+    "version": "0.0.3",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "revenant",
+                "uiTheme": "vs-dark",
+                "path": "./themes/revenant.json"
+            }
+        ]
+    }
+}
