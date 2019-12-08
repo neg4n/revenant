@@ -80,7 +80,7 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "fontStyle": "italic underline",
-        "foreground": "#1f7a8c"
+        "foreground": "#92b6b1"
       }
     },
     {
@@ -88,7 +88,7 @@
       "scope": "entity.name.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "#1f7a8c"
+        "foreground": "#92b6b1"
       }
     },
     {
@@ -112,7 +112,7 @@
       "scope": "entity.other.attribute-name",
       "settings": {
         "fontStyle": "",
-        "foreground": "#1f7a8c"
+        "foreground": "#92b6b1"
       }
     },
     {
@@ -139,7 +139,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#1f7a8c"
+        "foreground": "#92b6b1"
       }
     },
     {
