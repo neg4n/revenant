@@ -30,7 +30,10 @@
     },
     {
       "name": "User-defined constant",
-      "scope": ["constant.character", "constant.other"],
+      "scope": [
+        "constant.character",
+        "constant.other"
+      ],
       "settings": {
         "foreground": "#AE81FF"
       }
@@ -46,15 +49,14 @@
       "name": "Keyword",
       "scope": "keyword",
       "settings": {
-        "foreground": "#8a444e"
+        "foreground": "#b5446e"
       }
     },
     {
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "fontStyle": "",
-        "foreground": "#608963"
+        "foreground": "#b5446e"
       }
     },
     {
@@ -62,7 +64,7 @@
       "scope": "storage.type",
       "settings": {
         "fontStyle": "",
-        "foreground": "#8a444e"
+        "foreground": "#b5446e"
       }
     },
     {
@@ -70,7 +72,7 @@
       "scope": "entity.name.class",
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#8a444e"
+        "foreground": "#b5446e"
       }
     },
     {
@@ -78,7 +80,7 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "fontStyle": "italic underline",
-        "foreground": "#608963"
+        "foreground": "#1f7a8c"
       }
     },
     {
@@ -86,7 +88,7 @@
       "scope": "entity.name.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "#608963"
+        "foreground": "#1f7a8c"
       }
     },
     {
@@ -102,7 +104,7 @@
       "scope": "entity.name.tag",
       "settings": {
         "fontStyle": "",
-        "foreground": "#8a444e"
+        "foreground": "#b5446e"
       }
     },
     {
@@ -110,7 +112,7 @@
       "scope": "entity.other.attribute-name",
       "settings": {
         "fontStyle": "",
-        "foreground": "#608963"
+        "foreground": "#1f7a8c"
       }
     },
     {
@@ -118,7 +120,7 @@
       "scope": "support.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "#8a444e"
+        "foreground": "#b5446e"
       }
     },
     {
@@ -126,22 +128,53 @@
       "scope": "support.constant",
       "settings": {
         "fontStyle": "",
-        "foreground": "#8a444e"
+        "foreground": "#b5446e"
       }
     },
     {
       "name": "Library class/type",
-      "scope": ["support.type", "support.class"],
+      "scope": [
+        "support.type",
+        "support.class"
+      ],
       "settings": {
-		"fontStyle": "",
-        "foreground": "#608963"
+        "fontStyle": "",
+        "foreground": "#1f7a8c"
       }
     },
     {
       "name": "Library variable",
       "scope": "support.other.variable",
       "settings": {
-        "fontStyle": ""
+        "fontStyle": "#c7e8f3"
+      }
+    },
+    {
+      "name": "Namespace",
+      "scope": "entity.name.namespace",
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "Generic Type (C++/CLI)",
+      "scope": "entity.name.type.class.generic",
+      "settings": {
+        "fontStyle": "italic underline"
+      }
+    },
+    {
+      "name": "Member Field",
+      "scope": "variable.other.property",
+      "settings": {
+        "foreground": "#788aa3"
+      }
+    },
+    {
+      "name": "Type",
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#92b6b1"
       }
     },
     {
@@ -161,7 +194,7 @@
     }
   ],
   "colors": {
-    "statusBar.background": "#608963",
+    "statusBar.background": "#b5446e",
     "sideBar.background": "#131314",
     "sideBar.border": "#212121",
     "sideBarSectionHeader.background": "#151516",
