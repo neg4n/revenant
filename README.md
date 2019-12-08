@@ -1,5 +1,5 @@
 
-<img align="left" src="./resources/banner.png">
+<img src="./resources/banner.png">
 
 #
 
