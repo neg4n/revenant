@@ -3,7 +3,7 @@
     "publisher": "zxv77",
     "displayName": "revenant",
     "description": "spooky",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.40.0"
     },
