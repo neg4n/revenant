@@ -1,7 +1,8 @@
-
-<img src="./resources/banner.png">
+<p align="center"><img src="./resources/banner.png"></p>
 
 #
+
+<img align="right" height="256" width="256" src="./resources/colors.png">
 
 in folklore, a revenant is an animated corpse that is believed to have revived from  
 death to haunt the living. the word revenant is derived from the old french word,  
@@ -18,3 +19,4 @@ with only dark and faded colors used.
 
 [[install](https://marketplace.visualstudio.com/items?itemName=zxv77.revenant)]
 [[preview](https://github.com/zxv77/revenant/blob/master/resources/preview.png)]
+
