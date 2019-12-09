@@ -1,4 +1,25 @@
 {
+  "name": "revenant",
+  "colors": {
+    "statusBar.background": "#b5446e",
+    "sideBar.background": "#131314",
+    "sideBar.border": "#212121",
+    "sideBarSectionHeader.background": "#151516",
+    "sideBarSectionHeader.border": "#212121",
+    "activityBar.background": "#101011",
+    "activityBar.border": "#212121",
+    "editorGroupHeader.noTabsBackground": "#FFFFFF",
+    "editorGroupHeader.tabsBorder": "#212121",
+    "editorGroupHeader.tabsBackground": "#151516",
+    "tab.border": "#212121",
+    "tab.inactiveBackground": "#151516",
+    "editor.background": "#101011",
+    "editorCursor.foreground": "#F8F8F0",
+    "editor.foreground": "#adb3bc",
+    "editorWhitespace.foreground": "#212121",
+    "editor.lineHighlightBackground": "#212121",
+    "editor.selectionBackground": "#212121"
+  },
   "tokenColors": [
     {
       "name": "Comment",
@@ -192,26 +213,5 @@
         "foreground": "#F8F8F0"
       }
     }
-  ],
-  "colors": {
-    "statusBar.background": "#b5446e",
-    "sideBar.background": "#131314",
-    "sideBar.border": "#212121",
-    "sideBarSectionHeader.background": "#151516",
-    "sideBarSectionHeader.border": "#212121",
-    "activityBar.background": "#101011",
-    "activityBar.border": "#212121",
-    "editorGroupHeader.noTabsBackground": "#FFFFFF",
-    "editorGroupHeader.tabsBorder": "#212121",
-    "editorGroupHeader.tabsBackground": "#151516",
-    "tab.border": "#212121",
-    "tab.inactiveBackground": "#151516",
-    "editor.background": "#101011",
-    "editorCursor.foreground": "#F8F8F0",
-    "editor.foreground": "#adb3bc",
-    "editorWhitespace.foreground": "#212121",
-    "editor.lineHighlightBackground": "#212121",
-    "editor.selectionBackground": "#212121"
-  },
-  "name": "revenant"
+  ]
 }
